@@ -9,3 +9,7 @@ This repository depends on:
 Mask RCNN in keras
 skimage
 opencv
+
+The Mask RCNN has been trained starting from ImageNet weights. 
+
+The easiest thing to do to run this code: add the mrcnn directory from https://github.com/matterport/Mask_RCNN)
